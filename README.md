@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# SMART EXPENSE TRACKR AND LIMIT SETTER 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Hugs For Bugs
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Akshara S R - SSET
+- Member 2: Angel Rose K J- SSET
 
-### Hosted Project Link
-[mention your project hosted link here]
+### Video Project Link
+[https://drive.google.com/file/d/1pqTNOtYbrgjx1vPepD7x9C1ShEyn77OS/view?usp=sharing]
 
 ### Project Description
-[2-3 lines about what your project does]
+Smart Expense Tracker & Limit Setter is a financial management application that helps users monitor and control their daily and monthly spending. Users can set custom limits for different categories, and the system provides real-time alerts when spending approaches or exceeds those limits. It also offers visual insights and basic predictions to promote better budgeting habits. The goal is to encourage smart spending and improved financial discipline.
 
 ### The Problem statement
-[What problem are you solving?]
+Overspending of money
 
 ### The Solution
-[How are you solving it?]
+A smart expense tracker that tracks daily spending and lets users set category-wise limits
 
 ---
 
