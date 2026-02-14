@@ -12,8 +12,8 @@
 - Member 1: Akshara S R - SSET
 - Member 2: Angel Rose K J- SSET
 
-### Hosted Project Link
-[mention your project hosted link here]
+### Video Project Link
+[https://drive.google.com/file/d/1pqTNOtYbrgjx1vPepD7x9C1ShEyn77OS/view?usp=sharing]
 
 ### Project Description
 Smart Expense Tracker & Limit Setter is a financial management application that helps users monitor and control their daily and monthly spending. Users can set custom limits for different categories, and the system provides real-time alerts when spending approaches or exceeds those limits. It also offers visual insights and basic predictions to promote better budgeting habits. The goal is to encourage smart spending and improved financial discipline.
